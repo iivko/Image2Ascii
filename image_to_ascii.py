@@ -69,4 +69,4 @@ def convert(image_path: str, resize: int = 100) -> None:
 
 
 if __name__ == "__main__":
-    convert("img.png")
+    convert("ascii.png")
