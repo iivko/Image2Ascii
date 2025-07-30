@@ -1,6 +1,7 @@
 # 🖼️ Image to ASCII Art Converter
 This project converts standard image files (PNG, JPG, etc.) into ASCII art using Python. It resizes and grayscales the image, maps pixel brightness to ASCII characters, and outputs the result as plain text.
 
+### 100x100
 <pre>
                                                                                                     
                                                                                                     
